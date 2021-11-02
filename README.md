@@ -14,8 +14,5 @@ To stop the server from running, you hit `command + c` or `command + z` to stop 
 - [React](https://github.com/facebook/react) - Framework used
 - [Netlify](https://www.netlify.com/) - Deployment site used
 
-## Author 
-- [Leeangelo Riley](https://github.com/LeCoding-tech)
-
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LeCoding-tech/counter-app-lifecycles/blob/master/LICENSE) file for details.
